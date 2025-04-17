@@ -1,4 +1,4 @@
-# Assignment-5_Parameter-Optimization-of-SVM
+# Parameter-Optimization-of-SVM
 
 ## **Wine Quality Classification Using SVM and Hyperparameter Tuning**
 ### 📌 **Objective**
