@@ -1,6 +1,6 @@
-# H1 Assignment-5_Parameter-Optimization-of-SVM
+# Assignment-5_Parameter-Optimization-of-SVM
 
-**Wine Quality Classification Using SVM and Hyperparameter Tuning**
+**## Wine Quality Classification Using SVM and Hyperparameter Tuning**
 📌 **Objective**
 This project aims to classify red wine quality using Support Vector Machines (SVM) and improve accuracy through hyperparameter tuning via RandomizedSearchCV.
 
