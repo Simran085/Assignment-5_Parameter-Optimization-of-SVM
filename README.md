@@ -4,7 +4,6 @@
 ### 📌 **Objective**
 This project aims to classify red wine quality using Support Vector Machines (SVM) and improve accuracy through hyperparameter tuning via RandomizedSearchCV.
 
----
 
 ### 📊 **Dataset**
 
@@ -35,13 +34,11 @@ This project aims to classify red wine quality using Support Vector Machines (SV
   - Recorded best accuracy and parameters for each split.
   - Tracked convergence behavior of CV accuracy over 100 iterations.
 
----
 
 ### 📈 **Result Table**
 
 ![image](https://github.com/user-attachments/assets/8e98c05f-9bd9-4025-81c0-d8f2af38f603)
 
----
 
 ### 📉 **Convergence Graph**
 The following graph shows the convergence behavior of the mean cross-validation accuracy during 100 random hyperparameter trials for the best-performing sample (S10):
