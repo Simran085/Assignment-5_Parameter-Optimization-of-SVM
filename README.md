@@ -1,11 +1,14 @@
 # Assignment-5_Parameter-Optimization-of-SVM
 
-**## Wine Quality Classification Using SVM and Hyperparameter Tuning**
+## **Wine Quality Classification Using SVM and Hyperparameter Tuning**
 📌 **Objective**
 This project aims to classify red wine quality using Support Vector Machines (SVM) and improve accuracy through hyperparameter tuning via RandomizedSearchCV.
 
+---
+
 📊 **Dataset**
-**Source**: UCI Wine Quality Dataset (Red Wine)
+
+**Source**: UCI Wine Quality Dataset (Red Wine) (https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/)
 **Features**: 11 physiochemical properties (e.g., acidity, sugar, pH).
 **Target**: Wine quality (integer scores between 3 and 8).
 
